@@ -26,7 +26,7 @@ export default function Featured({type}) {
                 </div>
             )}
             <video width="100%" className='videoTag' autoPlay loop muted>
-                <source src="https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=139&oauth2_token_id=57447761" type='video/mp4' />
+                <source src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" type='video/mp4' />
             </video>
             <div className="info">
                 <img
